@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/signInFragment">
+
+    <fragment
+        android:id="@+id/signInFragment"
+        android:name="com.example.flipflapp.ui.signin.SignInFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_sign_in">
+        <action
+            android:id="@+id/action_signInFragment_to_homeFragment2"
+            app:destination="@id/homeFragment" />
+        <action
+            android:id="@+id/action_signInFragment_to_forgotAccountFragment"
+            app:destination="@id/forgotAccountFragment" />
+        <action
+            android:id="@+id/action_signInFragment_to_newUserFragment"
+            app:destination="@id/newUserFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.flipflapp.ui.drawer.HomeFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_editSetsFragment"
+            app:destination="@id/editSetsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.flipflapp.ui.drawer.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/helpFragment"
+        android:name="com.example.flipflapp.ui.drawer.HelpFragment"
+        android:label="fragment_help"
+        tools:layout="@layout/fragment_help" />
+    <fragment
+        android:id="@+id/forgotAccountFragment"
+        android:name="com.example.flipflapp.ui.signin.ForgotAccountFragment"
+        android:label="fragment_forgot_account"
+        tools:layout="@layout/fragment_forgot_account" />
+    <fragment
+        android:id="@+id/newUserFragment"
+        android:name="com.example.flipflapp.ui.signin.NewUserFragment"
+        android:label="fragment_new_user"
+        tools:layout="@layout/fragment_new_user" >
+        <action
+            android:id="@+id/action_newUserFragment_to_signInFragment"
+            app:destination="@id/signInFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/editFlashcardsFragment"
+        android:name="com.example.flipflapp.ui.flashcards.EditFlashcardsFragment"
+        android:label="EditFlashcardsFragment" />
+    <fragment
+        android:id="@+id/editSetsFragment"
+        android:name="com.example.flipflapp.ui.sets.EditSetsFragment"
+        android:label="EditSetsFragment" />
+</navigation>

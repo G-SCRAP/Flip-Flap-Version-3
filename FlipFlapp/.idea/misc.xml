@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.208" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/drawable/box.xml" value="0.1" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/drawable/flashcard.xml" value="0.208" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/drawable/help_icon.xml" value="0.265" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/drawable/ic_edit.xml" value="0.1295" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.108" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/drawable/settings_icon.xml" value="0.265" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/drawable/side_nav_bar.xml" value="0.108" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/layout/fragment_edit_flashcards.xml" value="0.33" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/layout/fragment_edit_sets.xml" value="0.33" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/layout/fragment_flashcard_details.xml" value="0.3625" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/layout/fragment_forgot_account.xml" value="0.25" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/layout/fragment_help.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/layout/fragment_home.xml" value="0.2796296296296296" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/layout/fragment_new_user.xml" value="0.25" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/layout/fragment_set_details.xml" value="0.3625" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/layout/fragment_sign_in.xml" value="0.5" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/layout/nav_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/menu/edit_menu.xml" value="0.33" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/menu/navdrawer_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/gogre927/AndroidStudioProjects/FlipFlapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_edit_flashcards.xml" value="0.12291666666666666" />
+        <entry key="app/src/main/res/layout/fragment_edit_sets.xml" value="0.24460550944010417" />
+        <entry key="app/src/main/res/layout/fragment_flashcard_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_forgot_account.xml" value="0.17771301269531248" />
+        <entry key="app/src/main/res/layout/fragment_help.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.15520833333333334" />
+        <entry key="app/src/main/res/layout/fragment_new_user.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_set_detail.xml" value="0.15911560058593743" />
+        <entry key="app/src/main/res/layout/fragment_set_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_sets.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_sets_detail.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_sets_edit.xml" value="0.17224121093750006" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.15520833333333334" />
+        <entry key="app/src/main/res/layout/list_item_sets.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/edit_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/navdrawer_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
